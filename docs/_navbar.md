@@ -8,9 +8,6 @@
   * [Gitee地址](https://gitee.com/ysgdaydayup)
 
 
-* 友情链接
-  * [Docsify](https://docsify.js.org/#/)
-  * [博客园](https://www.cnblogs.com/)
 
 * 高并发
   * [高并发](https://lincoln314.github.io/#/README)
