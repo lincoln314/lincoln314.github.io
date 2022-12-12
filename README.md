@@ -40,3 +40,9 @@
     
     <img src="https://bugstack.cn/images/personal/qrcode.png" width="180" height="180"/>
 
+
+****
+## 一些积累网站
+
+<br/> emoji大全:https://www.webfx.com/tools/emoji-cheat-sheet/
+****
