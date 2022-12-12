@@ -45,4 +45,6 @@
 ## 一些积累网站
 
 <br/> emoji大全:https://www.webfx.com/tools/emoji-cheat-sheet/
+
+<br/>在线观看博客网址：https://lincoln314.github.io/#/README
 ****
