@@ -47,4 +47,6 @@
 <br/> emoji大全:https://www.webfx.com/tools/emoji-cheat-sheet/
 
 <br/>在线观看博客网址：https://lincoln314.github.io/#/README
+
+<br/>Markdown 链接语法:https://markdown.com.cn/basic-syntax/links.html
 ****
