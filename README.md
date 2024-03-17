@@ -1,10 +1,10 @@
-# 教小白使用 docsify，搭建一个贼简单的所见即所得博客！ 🔥
+# 本仓库用于知识积累🔥
 
->你好，我是小傅哥，[《重学Java设计模式》](https://item.jd.com/13218336.html) 图书作者，一线互联网 Java 工程师、架构师。
+> 涉及知识如TTS端到端合成、机器人+大模型
 
 ## 博客搭建
 
-有粉丝伙伴问小傅哥，你那博客：[https://bugstack.cn](https://bugstack.cn) 挺好的我也想整一个，面试写到简历上`还能加分`，也是给自己建设影响力的东西。
+有粉丝伙伴问小傅哥，你那博客：[https://bugstack.cn](https://bugstack.cn) 挺好的我也想整一个，面试写到简历上 `还能加分`，也是给自己建设影响力的东西。
 
 不过我没有自己的域名，也没有一些云服务器，还不太会前端的玩意。之后搞的太复杂我又没有时间维护，那有没有简单点的方式，就能搞一个这样博客呢？
 
@@ -26,27 +26,27 @@
 <div align="center">
     <a href="https://github.com/fuzhengwei/CodeGuide">关注小傅哥，你可以学到的更多！</a>
 </div>
-<br/>  
+<br/>
 
 - **加群交流**
 
-    本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “小傅哥” 微信(fustack)，备注：`学习加群`。
-    
-    <img src="https://bugstack.cn/images/personal/fustack.png" width="180" height="180"/>
+  本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “小傅哥” 微信(fustack)，备注：`学习加群`。
 
+  <img src="https://bugstack.cn/images/personal/fustack.png" width="180" height="180"/>
 - **公众号(bugstack虫洞栈)**
 
-    沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例、源码分析等。
-    
-    <img src="https://bugstack.cn/images/personal/qrcode.png" width="180" height="180"/>
+  沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有；Netty4.x实战专题案例、用Java实现JVM、基于JavaAgent的全链路监控、手写RPC框架、DDD专题案例、源码分析等。
 
+  <img src="https://bugstack.cn/images/personal/qrcode.png" width="180" height="180"/>
 
-****
+---
+
 ## 一些积累网站
 
-<br/> emoji大全:https://www.webfx.com/tools/emoji-cheat-sheet/
+`<br/>` emoji大全:https://www.webfx.com/tools/emoji-cheat-sheet/
 
-<br/>在线观看博客网址：https://lincoln314.github.io/#/README
+`<br/>`在线观看博客网址：https://lincoln314.github.io/#/README
 
-<br/>Markdown 链接语法:https://markdown.com.cn/basic-syntax/links.html
-****
+`<br/>`Markdown 链接语法:https://markdown.com.cn/basic-syntax/links.html
+
+---
